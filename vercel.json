@@ -1,0 +1,9 @@
+{
+  "redirects": [
+    {
+      "source": "/",
+      "destination": "http://topupgame.kaaaoffc.web.id:4133",
+      "permanent": false
+    }
+  ]
+}
